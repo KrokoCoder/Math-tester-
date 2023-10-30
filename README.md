@@ -1,1 +1,1 @@
-# Math-tester-
+Math tester is a small app that can be used to check the math knowledge of people. There are 8 topics of questions that you can choose: +/- , *//, expressions, ^/√, fractions, equations, trigonometry and logarythms. And also if you want to challenge yourself you can try to write 9 to activate the Mix questions mode. Btw there is a small txt file with 6 math signs that you can copy and paste. Enjoy your time and good luck. :D
